@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pwsafe.xsl"?>
+
+<passwordsafe
+delimiter="»"
+Database="/mnt/data/password/AccountControl.psafe3"
+ExportTimeStamp="2022-02-19T18:46:14"
+FromDatabaseFormat="3.14"
+WhoSaved="nartvt on development"
+WhatSaved="pwsafe V1.08"
+WhenLastSaved="2022-02-06T19:11:28"
+WhenPwdLastChanged="2019-01-10T20:57:38"
+Database_uuid="af24ea0e-d3ee-4b06-8a81-49cf74294c3e"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="pwsafe.xsd">
+
+ <!-- Note: These preferences are only used when importing into an empty database. --> 
+	<Preferences>
+		<UseDefaultUser>1</UseDefaultUser>
+		<LockDBOnIdleTimeout>0</LockDBOnIdleTimeout>
+		<DefaultUsername><![CDATA[tooyoutooyou@gmail.com]]></DefaultUsername>
+	</Preferences>
+
+	<EmptyGroups>
+		<EGName><![CDATA[CNTT]]></EGName>
+		<EGName><![CDATA[courses]]></EGName>
+		<EGName><![CDATA[discord]]></EGName>
+		<EGName><![CDATA[docker]]></EGName>
+		<EGName><![CDATA[freelancer]]></EGName>
+		<EGName><![CDATA[google-ff]]></EGName>
+		<EGName><![CDATA[jetbraind]]></EGName>
+		<EGName><![CDATA[lozi]]></EGName>
+		<EGName><![CDATA[npm]]></EGName>
+		<EGName><![CDATA[nsth]]></EGName>
+		<EGName><![CDATA[toptracker]]></EGName>
+		<EGName><![CDATA[udemy]]></EGName>
+	</EmptyGroups>
+
+ <!-- 
+     Export of data was restricted to certain fields by the user.
+     The user specified that the following fields be excluded from the export:
+     Keyboard Shortcut
+ --> 
+
+	<entry id="1">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[1]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[1]]></password>
+		<notes><![CDATA[21/117 đông bắc, tổ 21B khu phố 6, P. Tân chánh hiệp, Quận 12, tp.hcm]]></notes>
+		<uuid><![CDATA[008da53e3b9544319be3d040b24c391a]]></uuid>
+		<ctimex>2020-10-17T21:19:14</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="2">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[192.168.1.1]]></title>
+		<username><![CDATA[admin]]></username>
+		<password><![CDATA[DSNW1f371e88]]></password>
+		<uuid><![CDATA[5abf14c73b9e4327a071ea67d9bbd002]]></uuid>
+		<ctimex>2019-02-24T21:03:35</ctimex>
+		<rmtimex>2020-05-13T22:56:26</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="3">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[192.168.1.15]]></title>
+		<username><![CDATA[admin]]></username>
+		<password><![CDATA[ZTEGC8CFEA5C]]></password>
+		<notes><![CDATA[SSID1_2.4: Thanh Trung/Luyen1974@»SSID2_2.4: Thanh Trung/!@#$%12345»SSID5_5G: Thanh Trung_5G/Luyen1974@»SSID6_5G:  SSID6/!@#$%12345»SSID7_5G:  SSID7/!@#$%12345]]></notes>
+		<uuid><![CDATA[e507314463ae4e47968711167754c208]]></uuid>
+		<ctimex>2020-07-28T22:15:10</ctimex>
+		<rmtimex>2020-08-15T22:08:55</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="4">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Adobe account]]></title>
+		<username><![CDATA[vostro3460@outlook.com]]></username>
+		<password><![CDATA[gsxhQTr6rJzKEUkw]]></password>
+		<uuid><![CDATA[bdfc147c993f47f585c82866125cae25]]></uuid>
+		<ctimex>2019-03-01T01:00:38</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="5">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Amazone account]]></title>
+		<username><![CDATA[tranvantai]]></username>
+		<password><![CDATA[cx724p5mB3CspaQK]]></password>
+		<url><![CDATA[https://www.amazon.com/]]></url>
+		<uuid><![CDATA[e159c61e55c54c698af6e39b04204731]]></uuid>
+		<ctimex>2020-01-04T20:35:09</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="6">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Bitbucket]]></title>
+		<username><![CDATA[bitbucket.org /taivantran]]></username>
+		<password><![CDATA[wTDd3eM8esH4kfXa]]></password>
+		<uuid><![CDATA[7b38b88a107f4f75bbf99da2315b2b83]]></uuid>
+		<ctimex>2019-03-05T19:29:20</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="7">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Cisco]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[RD6mzxgUMq8xfWcw]]></password>
+		<url><![CDATA[https://software.cisco.com]]></url>
+		<notes><![CDATA[https://software.cisco.com]]></notes>
+		<uuid><![CDATA[e88fd5eaff37453cac12065a26386917]]></uuid>
+		<ctimex>2019-01-10T20:58:41</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="8">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Confluent Platform]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[ef297YvAAg69FJtR]]></password>
+		<url><![CDATA[https://www.confluent.io/]]></url>
+		<notes><![CDATA[Confluent Platform - Kafka»https://www.confluent.io/]]></notes>
+		<uuid><![CDATA[3ee450255ff443b48ce0b2a4f5184744]]></uuid>
+		<ctimex>2019-05-23T21:51:33</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="9">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Dark Sky Weather]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[EnEN8RFcNhT8GTGe]]></password>
+		<url><![CDATA[https://darksky.net/dev/register]]></url>
+		<uuid><![CDATA[148c548057de4cca80e5ab528ed29bdc]]></uuid>
+		<ctimex>2019-11-24T20:16:55</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="10">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[EpicGame]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[EKJAYrkf6npZ6Q8b]]></password>
+		<notes><![CDATA[https://www.epicgames.com/id/register?redirect_uri=https%3A%2F%2Fwww.epicgames.com%2Fstore%2Fen-US%2Fcollection%2Fbatman-free-week&client_id=875a3b57d3a640a6b7f9b4e883463ab4»»Display name: Peanut_Real]]></notes>
+		<uuid><![CDATA[3932e9709e9c49ec9d847fb50ca5f680]]></uuid>
+		<ctimex>2019-09-20T21:35:34</ctimex>
+		<rmtimex>2019-09-20T21:36:18</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="11">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[ex]]></title>
+		<username><![CDATA[0773246232]]></username>
+		<password><![CDATA[w.a19(j0VT]P]]></password>
+		<uuid><![CDATA[c1a0668a2a834c9ea8e78684061a5141]]></uuid>
+		<ctimex>2021-04-22T19:37:07</ctimex>
+		<xtimex>2021-07-21T19:37:56</xtimex>
+		<pmtimex>2021-04-22T19:37:56</pmtimex>
+		<rmtimex>2021-04-22T19:37:56</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="12">
+		<group><![CDATA[account.facebook]]></group>
+		<title><![CDATA[facebook ]]></title>
+		<username><![CDATA[skylinefully@gmail.com]]></username>
+		<password><![CDATA[tranvantai1212]]></password>
+		<uuid><![CDATA[c2a53e21752746e0be174e9ba924adcd]]></uuid>
+		<ctimex>2019-01-10T21:04:34</ctimex>
+		<xtimex>2019-06-15T19:39:45</xtimex>
+		<pmtimex>2019-03-17T19:39:45</pmtimex>
+		<rmtimex>2020-02-17T22:22:26</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="13">
+		<group><![CDATA[account.facebook]]></group>
+		<title><![CDATA[facebook]]></title>
+		<username><![CDATA[lamp02chair@zing.vn ]]></username>
+		<password><![CDATA[YSrWLf3fPYP8gae6]]></password>
+		<notes><![CDATA[euxne2fE]]></notes>
+		<uuid><![CDATA[4f9938d54b9c456f9e8591a22e189b92]]></uuid>
+		<ctimex>2019-01-10T21:05:36</ctimex>
+		<pmtimex>2019-06-05T23:18:52</pmtimex>
+		<rmtimex>2020-08-13T10:04:47</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="14">
+		<group><![CDATA[account.facebook]]></group>
+		<title><![CDATA[facebook]]></title>
+		<username><![CDATA[lamp03chair@gmail.com]]></username>
+		<password><![CDATA[tranvantai1212]]></password>
+		<uuid><![CDATA[c9ccebbf7d4046469c3a8b5b662cc313]]></uuid>
+		<ctimex>2019-01-10T21:00:35</ctimex>
+		<rmtimex>2019-03-25T12:29:35</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="15">
+		<group><![CDATA[account.facebook]]></group>
+		<title><![CDATA[facebook]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[tranvantai1212]]></password>
+		<uuid><![CDATA[8c65e02a179e4f95b2ab4c55624e8a56]]></uuid>
+		<ctimex>2019-01-10T21:04:55</ctimex>
+		<xtimex>2019-06-15T19:40:35</xtimex>
+		<pmtimex>2019-03-17T19:40:35</pmtimex>
+		<rmtimex>2019-03-25T12:29:41</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="16">
+		<group><![CDATA[account.facebook]]></group>
+		<title><![CDATA[facebook]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[DevJava!2403@]]></password>
+		<uuid><![CDATA[5765e08b809541a2b2db8ee43974fb86]]></uuid>
+		<ctimex>2019-01-10T21:05:13</ctimex>
+		<rmtimex>2019-03-25T12:29:46</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="17">
+		<group><![CDATA[account.facebook]]></group>
+		<title><![CDATA[facebook]]></title>
+		<username><![CDATA[vietteltokyq12@gmail.com]]></username>
+		<password><![CDATA[u8k3EV4FEFfs2AD2]]></password>
+		<notes><![CDATA[euxne2fE]]></notes>
+		<uuid><![CDATA[88e1ba1f8418447eb86127236a0e9fe9]]></uuid>
+		<ctimex>2019-03-18T15:07:12</ctimex>
+		<rmtimex>2020-08-12T22:24:00</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="18">
+		<group><![CDATA[account.facebook]]></group>
+		<title><![CDATA[facebook Tran Thi Tram]]></title>
+		<username><![CDATA[tran.thitram.982]]></username>
+		<password><![CDATA[Q!P)E@WrrRT%hg&I(I]]></password>
+		<uuid><![CDATA[fa26545823c64cc3a183acc6a44d41ba]]></uuid>
+		<ctimex>2019-01-10T20:59:36</ctimex>
+		<rmtimex>2019-03-25T12:29:57</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="19">
+		<group><![CDATA[account.facebook]]></group>
+		<title><![CDATA[vostro3460]]></title>
+		<username><![CDATA[vostro3460@outlook.com]]></username>
+		<password><![CDATA[TYbLMb3cumQpGdNf]]></password>
+		<notes><![CDATA[TYbLMb3cumQpGdNf]]></notes>
+		<uuid><![CDATA[c54e043142274072b79340c01ffe4cc8]]></uuid>
+		<ctimex>2019-11-24T20:22:32</ctimex>
+		<pmtimex>2020-09-13T15:29:39</pmtimex>
+		<rmtimex>2020-09-13T15:29:39</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="20">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[G-suite Account]]></title>
+		<username><![CDATA[taivt@hitachiconsulting.com]]></username>
+		<password><![CDATA[Uv3qqM5n9ZUYeCuJ]]></password>
+		<notes><![CDATA[https://google.qwiklabs.com/users/sign_up]]></notes>
+		<uuid><![CDATA[6ec3096278e04ed28d9c4281c6f626da]]></uuid>
+		<ctimex>2019-09-20T08:10:43</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="21">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Genymotion]]></title>
+		<username><![CDATA[taivt0011]]></username>
+		<password><![CDATA[javadeveloper123!@#]]></password>
+		<notes><![CDATA[taivt0011/javadeveloper123!@#»tooyoutooyou@gmail.com»»===================»tranvantai0011/JavaDev!2403@»tranvantai0011@gmail.com]]></notes>
+		<uuid><![CDATA[c7989e2a98224e6eb3d2970cf8c6e692]]></uuid>
+		<ctimex>2019-03-12T23:06:22</ctimex>
+		<rmtimex>2019-10-19T22:15:15</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="22">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Get Link]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[8Eep4AnDpfCjbJMS]]></password>
+		<notes><![CDATA[https://getlinks.co/register]]></notes>
+		<uuid><![CDATA[fcb19c5ed4004455a1d0a0fb64bcb27c]]></uuid>
+		<ctimex>2019-01-10T21:00:11</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="23">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Heroku account]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[gC3YnMmvL7Az4928@]]></password>
+		<url><![CDATA[https://signup.heroku.com/confirm]]></url>
+		<uuid><![CDATA[78cbe4d5749c4941895e185ffc123af5]]></uuid>
+		<ctimex>2019-11-24T20:19:38</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="24">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[http://lms.myclass.vn]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[3SA@3hnR9%<Yp`NP]]></password>
+		<notes><![CDATA[http://lms.myclass.vn]]></notes>
+		<uuid><![CDATA[2ef53df2c0c44b4e824da759e334893d]]></uuid>
+		<ctimex>2019-03-25T10:14:36</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="25">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[JS framework Morioh]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[U2LCpDW9WZDdkx5d]]></password>
+		<url><![CDATA[https://morioh.com/register ]]></url>
+		<notes><![CDATA[https://morioh.com]]></notes>
+		<uuid><![CDATA[5d5d358b8f394f1ab61e8cf746a82a5b]]></uuid>
+		<ctimex>2019-01-26T22:43:13</ctimex>
+		<rmtimex>2019-03-19T19:34:18</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="26">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[linkedin]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[J8kkWrz8XLw9AYD]]></password>
+		<url><![CDATA[https://vn.linkedin.com/]]></url>
+		<notes><![CDATA[https://vn.linkedin.com/]]></notes>
+		<uuid><![CDATA[d25a0a21c0ee46c1af7267629ef51c26]]></uuid>
+		<ctimex>2019-01-10T21:01:14</ctimex>
+		<rmtimex>2019-06-03T01:31:42</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="27">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[MongoDB Cloud]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[MdzMKS4Frq6Pj7pq]]></password>
+		<notes><![CDATA[https://cloud.mongodb.com/v2/5da14cc3f2a30b32fa355102#clusters/pathSelector?registration=true]]></notes>
+		<uuid><![CDATA[9040fd73a81945ae9382dbf2d6538a93]]></uuid>
+		<ctimex>2019-10-12T10:50:47</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="28">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[passwordforSync Google]]></title>
+		<password><![CDATA[thienlong]]></password>
+		<notes><![CDATA[tooyoutooyou@gmail.com»skylinefully@gmail.com]]></notes>
+		<uuid><![CDATA[8e122bab8f134c10b829f22873aa864d]]></uuid>
+		<ctimex>2019-05-20T20:19:11</ctimex>
+		<rmtimex>2019-05-20T20:19:23</rmtimex>
+	</entry>
+
+	<entry id="29">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Riot Game Accouint]]></title>
+		<username><![CDATA[PeanutHuniBlank]]></username>
+		<password><![CDATA[CrfcJQPFJ9quenFS]]></password>
+		<notes><![CDATA[https://ap.recovery.riotgames.com/en/forgot-password/eyJzdWIiOiIwZWEwNjI5YS1iNDFmLTU1OTktYTY5MS02MTgzOGIzM2NkZGQiLCJyZWdpb24iOiJOQTEiLCJpbml0aWF0b3IiOiJQTEFZRVIiLCJleHAiOjE1Njk1MTM4OTIsImlhdCI6MTU2OTQyNzQ5Mn0.hnMKEv65Hh4PK78XQwMm59q4AHFHg-E1jnctaZzs3vo]]></notes>
+		<uuid><![CDATA[4a4f98590db346ba9c69fb3bde20f7ad]]></uuid>
+		<ctimex>2019-09-25T23:06:01</ctimex>
+		<xtimex>2019-12-24T23:06:43</xtimex>
+		<pmtimex>2019-09-25T23:06:43</pmtimex>
+		<rmtimex>2019-09-25T23:06:43</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="30">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[root]]></title>
+		<username><![CDATA[root]]></username>
+		<password><![CDATA[wtcd&596f<%X]]></password>
+		<uuid><![CDATA[677f22186c834662b39e2f3e5c4e489d]]></uuid>
+		<ctimex>2020-04-22T20:47:41</ctimex>
+		<rmtimex>2020-04-25T14:25:37</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="31">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[ShutterStock Image vector]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[Jd8eu3hBqzYyaCJf]]></password>
+		<notes><![CDATA[https://shutterstock.com/image-vector/online-cinema-art-movie-watching-popcorn-586719869]]></notes>
+		<uuid><![CDATA[b02c396743154901a70a445ddf894b2f]]></uuid>
+		<ctimex>2019-08-09T21:14:00</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="32">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[ssh key pass]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[tranvantai1212]]></password>
+		<notes><![CDATA[tooyoutooyou@gmail.com]]></notes>
+		<uuid><![CDATA[eec645ee9140435eb7ad56e1ed366835]]></uuid>
+		<ctimex>2019-05-26T19:48:30</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="33">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Steam]]></title>
+		<username><![CDATA[petervodich]]></username>
+		<password><![CDATA[5tMsHaYgbGX5Ma3w]]></password>
+		<url><![CDATA[https://store.steampowered.com/?created_account=1]]></url>
+		<uuid><![CDATA[b1693eaf64df4c98a08392ab75757f60]]></uuid>
+		<ctimex>2019-03-09T23:51:45</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="34">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Twitch]]></title>
+		<username><![CDATA[deck_pk]]></username>
+		<password><![CDATA[rF6qtTA9x7hHUGdL]]></password>
+		<uuid><![CDATA[7c6b80d5ee7e4cf0a8f8a2d536b77442]]></uuid>
+		<ctimex>2019-12-15T21:28:13</ctimex>
+		<rmtimex>2020-04-09T09:41:37</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="35">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[twiter]]></title>
+		<username><![CDATA[tukhidonglai]]></username>
+		<password><![CDATA[e7BHNGE6tWQkGMQq]]></password>
+		<notes><![CDATA[safe code: bssy pt2c aged»bssy pt2c aged]]></notes>
+		<uuid><![CDATA[b1869de5decc4ace95e975576b80ae5a]]></uuid>
+		<ctimex>2022-01-12T10:24:58</ctimex>
+		<rmtimex>2022-01-12T10:26:15</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="36">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Twitter]]></title>
+		<username><![CDATA[TooYouSS]]></username>
+		<password><![CDATA[e7BHNGE6tWQkGMQq]]></password>
+		<uuid><![CDATA[545203f18e754f6a86bee9e23447c677]]></uuid>
+		<ctimex>2019-01-10T21:06:02</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="37">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Ubuntu Account]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[H8^?PkM!3g7^km+K]]></password>
+		<notes><![CDATA[https://login.ubuntu.com]]></notes>
+		<uuid><![CDATA[d8e6f235e7ff4a35a1b8736a0b48f56e]]></uuid>
+		<ctimex>2019-05-05T21:27:19</ctimex>
+		<rmtimex>2020-04-19T15:46:48</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="38">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[VCBANK]]></title>
+		<username><![CDATA[8084193A18]]></username>
+		<password><![CDATA[K8q2JeqXXAseFyby]]></password>
+		<notes><![CDATA[digital banking: 0773246232/Tranvantai12!@]]></notes>
+		<uuid><![CDATA[538e5d0fdd034440a48d2c6937ea8b16]]></uuid>
+		<ctimex>2019-02-01T05:48:18</ctimex>
+		<rmtimex>2020-12-16T13:37:04</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="39">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[venmo]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[hga6ZDNFJVL6qvHA]]></password>
+		<notes><![CDATA[https://venmo.com/signup]]></notes>
+		<uuid><![CDATA[70ec73b0769a45ca890344826a55e46f]]></uuid>
+		<ctimex>2019-01-10T21:06:25</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="40">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[VMWare]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[uCKzLNxzUZMfMeUn@1]]></password>
+		<url><![CDATA[https://my.vmware.com/]]></url>
+		<uuid><![CDATA[384f04e5ac584a52a949071fbbd6226f]]></uuid>
+		<ctimex>2019-11-05T23:56:23</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="41">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[voz]]></title>
+		<username><![CDATA[taismile]]></username>
+		<password><![CDATA[H\I:!#0;x]rJ]]></password>
+		<uuid><![CDATA[5129e3ef793149378a37be526ff6fed3]]></uuid>
+		<ctimex>2021-08-15T17:28:30</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="42">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[W3layout]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[Uyy9NtnFxU4XT3dm]]></password>
+		<notes><![CDATA[http://my.w3layouts.com/DownloadTemplate/21920]]></notes>
+		<uuid><![CDATA[ce751963dcff4dec9b47600a1116ca74]]></uuid>
+		<ctimex>2019-08-09T18:12:38</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="43">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[WAV ASIA]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[ZREtfLcue9Tf5589]]></password>
+		<notes><![CDATA[https://waw.asia/register?return=https://waw.asia/]]></notes>
+		<uuid><![CDATA[976ea8dd0c1748c0bb66b4277342b77d]]></uuid>
+		<ctimex>2020-02-16T21:42:53</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="44">
+		<group><![CDATA[account]]></group>
+		<title><![CDATA[Zoom Account]]></title>
+		<username><![CDATA[744-296-9117]]></username>
+		<password><![CDATA[H4atusc52aVpLTsn]]></password>
+		<notes><![CDATA[zoom profile: https://zoom.us/profile»zoom ID:  https://zoom.us/j/7442969117]]></notes>
+		<uuid><![CDATA[22f80383629d4b79bdb5a8ab2321bf1a]]></uuid>
+		<ctimex>2019-10-01T21:52:36</ctimex>
+		<rmtimex>2019-10-01T21:53:17</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="45">
+		<group><![CDATA[CNTT]]></group>
+		<title><![CDATA[administrator]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[rwBPMxpfX?d;]]></password>
+		<uuid><![CDATA[85654763247c416c94ed4bc95544d22c]]></uuid>
+		<ctimex>2021-12-12T22:07:49</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="46">
+		<group><![CDATA[CNTT]]></group>
+		<title><![CDATA[email]]></title>
+		<username><![CDATA[ 21410048@ms.uit.edu.vn]]></username>
+		<password><![CDATA[6t@1>zh)uJ2j]]></password>
+		<notes><![CDATA[https://elearning.citd.vn/, 21410048, 1174318668» 21410048@ms.uit.edu.vn»]]></notes>
+		<uuid><![CDATA[8a33fcbb474846efa4ab1f97a5972d3d]]></uuid>
+		<ctimex>2021-11-28T21:28:09</ctimex>
+		<rmtimex>2021-12-07T15:55:14</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="47">
+		<group><![CDATA[codeforce]]></group>
+		<title><![CDATA[Account]]></title>
+		<username><![CDATA[tranvantai]]></username>
+		<password><![CDATA[EaQeScda]]></password>
+		<url><![CDATA[https://codeforces.com/register]]></url>
+		<uuid><![CDATA[5e65e3abeb6c45b2b1e4ea18c0536d92]]></uuid>
+		<ctimex>2020-04-26T15:38:31</ctimex>
+		<rmtimex>2020-04-26T15:38:52</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="48">
+		<group><![CDATA[courses]]></group>
+		<title><![CDATA[Code4Func]]></title>
+		<username><![CDATA[vudinhdai2505@gmail.com]]></username>
+		<password><![CDATA[Vudinhdai2505]]></password>
+		<notes><![CDATA[tranvantai0011@gmail.com»UJHzTQwPqt2Y2ZCc]]></notes>
+		<uuid><![CDATA[61a9962714a4482182ace579fd2d69c2]]></uuid>
+		<ctimex>2021-02-28T10:53:07</ctimex>
+		<xtimex>2021-05-29T10:53:27</xtimex>
+		<pmtimex>2021-02-28T10:53:27</pmtimex>
+		<rmtimex>2021-02-28T10:54:07</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="49">
+		<group><![CDATA[courses]]></group>
+		<title><![CDATA[Cousera]]></title>
+		<username><![CDATA[tranvantai]]></username>
+		<password><![CDATA[PJA5VWQ8d6tXhBbj]]></password>
+		<uuid><![CDATA[b4d3b0d057ed466684979f9ed155d801]]></uuid>
+		<ctimex>2021-02-28T10:48:45</ctimex>
+		<xtimex>2021-05-29T10:48:59</xtimex>
+		<pmtimex>2021-02-28T10:48:59</pmtimex>
+		<rmtimex>2021-02-28T10:49:09</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="50">
+		<group><![CDATA[courses]]></group>
+		<title><![CDATA[Shaw Academy]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[LbxnWEA48ChJwyja]]></password>
+		<url><![CDATA[www.shawacademy.com]]></url>
+		<uuid><![CDATA[c73e1bac83ad499eac75c5318f9bbb08]]></uuid>
+		<ctimex>2021-02-28T10:51:42</ctimex>
+		<xtimex>2021-05-29T10:51:54</xtimex>
+		<pmtimex>2021-02-28T10:51:54</pmtimex>
+		<rmtimex>2021-02-28T10:52:21</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="51">
+		<group><![CDATA[database account]]></group>
+		<title><![CDATA[mysql]]></title>
+		<username><![CDATA[root]]></username>
+		<password><![CDATA[root]]></password>
+		<uuid><![CDATA[4bf9b5fc9b2e47299df18c4a7987ec8f]]></uuid>
+		<ctimex>2019-01-10T21:02:46</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="52">
+		<group><![CDATA[database account]]></group>
+		<title><![CDATA[mysql account]]></title>
+		<username><![CDATA[temo]]></username>
+		<password><![CDATA[temo123]]></password>
+		<uuid><![CDATA[1d2029755ce4439aaedd90b93bcabb84]]></uuid>
+		<ctimex>2019-01-10T21:03:57</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="53">
+		<group><![CDATA[database account]]></group>
+		<title><![CDATA[Oracle account]]></title>
+		<username><![CDATA[temo]]></username>
+		<password><![CDATA[temo123]]></password>
+		<uuid><![CDATA[2d7c3f850b8c4212bdcad808ecb1676e]]></uuid>
+		<ctimex>2019-01-10T21:03:13</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="54">
+		<group><![CDATA[database account]]></group>
+		<title><![CDATA[Oracle system]]></title>
+		<username><![CDATA[SYSTEM]]></username>
+		<password><![CDATA[oracle1234]]></password>
+		<notes><![CDATA[Specify a password to be used for database accounts. Oracle recommends that the password entered should be at least 8 characters in length, contain at least 1 uppercase character, 1 lower case character and 1 digit [0-9]. Note that the same password will be used for SYS, SYSTEM and PDBADMIN accounts]]></notes>
+		<uuid><![CDATA[846a438aa52e4f29adc6beb295ac8156]]></uuid>
+		<ctimex>2019-01-10T21:03:35</ctimex>
+		<pmtimex>2019-05-18T00:23:49</pmtimex>
+		<rmtimex>2019-05-18T00:23:49</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="55">
+		<group><![CDATA[discord]]></group>
+		<title><![CDATA[account]]></title>
+		<username><![CDATA[gogo#2955]]></username>
+		<password><![CDATA[T~]B4[#K)lQa]]></password>
+		<uuid><![CDATA[72ea919a692544659c2117ffc26037f8]]></uuid>
+		<ctimex>2021-03-10T02:22:20</ctimex>
+		<xtimex>2021-08-13T15:30:02</xtimex>
+		<pmtimex>2021-05-15T15:30:02</pmtimex>
+		<rmtimex>2021-05-15T15:30:02</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="56">
+		<group><![CDATA[docker]]></group>
+		<title><![CDATA[Docker Hub Account]]></title>
+		<username><![CDATA[developmentdevops]]></username>
+		<password><![CDATA[#6lX<0da7i-9]]></password>
+		<uuid><![CDATA[de1939f001634e3bb6a211ea4678cc20]]></uuid>
+		<ctimex>2020-12-15T15:44:18</ctimex>
+		<rmtimex>2021-01-14T07:07:20</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="57">
+		<group><![CDATA[docker]]></group>
+		<title><![CDATA[Docker Hub Account]]></title>
+		<username><![CDATA[taivantran]]></username>
+		<password><![CDATA[vpw5rvSNQWRrqDGg]]></password>
+		<url><![CDATA[https://hub.docker.com/settings/general]]></url>
+		<uuid><![CDATA[165c98a429884892afee922d42ea018c]]></uuid>
+		<ctimex>2021-01-14T06:49:56</ctimex>
+		<rmtimex>2021-01-14T06:50:18</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="58">
+		<group><![CDATA[facebook-develop]]></group>
+		<title><![CDATA[keystore]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[dMbwzgkzPV7WnLmCRCbT3qidLGE=]]></password>
+		<notes><![CDATA[dMbwzgkzPV7WnLmCRCbT3qidLGE=]]></notes>
+		<uuid><![CDATA[ddbb7bedca354b3fbc9d413cf8edd07b]]></uuid>
+		<ctimex>2020-06-13T16:24:23</ctimex>
+		<xtimex>2020-09-11T16:24:40</xtimex>
+		<pmtimex>2020-06-13T16:24:40</pmtimex>
+		<rmtimex>2020-06-13T16:24:40</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="59">
+		<group><![CDATA[freelancer]]></group>
+		<title><![CDATA[developers.turing]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[:\#xX.C+WY/s]]></password>
+		<url><![CDATA[https://developers.turing.com/signup?n=1&s=ads_developers-facebook_g2a]]></url>
+		<uuid><![CDATA[054aec2170d44b97aa04ab647bdc7032]]></uuid>
+		<ctimex>2021-05-30T17:16:41</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="60">
+		<group><![CDATA[Git]]></group>
+		<title><![CDATA[GitHub]]></title>
+		<username><![CDATA[tranvantai0011]]></username>
+		<password><![CDATA[Mbna4Nc3pHkPN46m]]></password>
+		<notes><![CDATA[sshkey-password: ve9Whny397SwC5js»id_rsa:tranvantai1212»access key - 26-mar-2021: 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]]></notes>
+		<uuid><![CDATA[36b5dd3b14d44bbc8703bf05007279d9]]></uuid>
+		<ctimex>2020-06-04T23:16:45</ctimex>
+		<rmtimex>2022-02-06T19:11:28</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="61">
+		<group><![CDATA[Git]]></group>
+		<title><![CDATA[GitLab]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[Mbna4Nc3pHkPN46m]]></password>
+		<notes><![CDATA[sshkey-password: ve9Whny397SwC5js]]></notes>
+		<uuid><![CDATA[d674009542b44cc6a273e2eb24f68eed]]></uuid>
+		<ctimex>2020-06-04T23:15:22</ctimex>
+		<pmtimex>2020-12-05T18:18:22</pmtimex>
+		<rmtimex>2021-07-11T10:38:30</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="62">
+		<group><![CDATA[google-ff]]></group>
+		<title><![CDATA[ff]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[yzW7i62YF99BWL9]]></password>
+		<uuid><![CDATA[bf6ee8bea1fc4350813e169703e7ec87]]></uuid>
+		<ctimex>2021-11-07T18:47:58</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="63">
+		<group><![CDATA[jetbraind]]></group>
+		<title><![CDATA[Account]]></title>
+		<username><![CDATA[21410048@ms.uit.edu.vn]]></username>
+		<password><![CDATA[Qub?Vv.GdKpa&~2]]></password>
+		<uuid><![CDATA[8a8423dd88e243dda395588a2164b8f6]]></uuid>
+		<ctimex>2021-12-05T22:18:35</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="64">
+		<group><![CDATA[lozi]]></group>
+		<title><![CDATA[gitlab]]></title>
+		<username><![CDATA[taitran]]></username>
+		<password><![CDATA[mj4xvY2u]]></password>
+		<notes><![CDATA[accesstoken: 6iFHM56M2sJNf9NiM8MF]]></notes>
+		<uuid><![CDATA[8a8e967c6dec490690c35055d4b8ba40]]></uuid>
+		<ctimex>2021-09-13T13:16:24</ctimex>
+		<xtimex>2021-12-12T13:16:35</xtimex>
+		<pmtimex>2021-09-13T13:16:35</pmtimex>
+		<rmtimex>2021-09-29T17:32:14</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="65">
+		<group><![CDATA[lozi]]></group>
+		<title><![CDATA[lozi]]></title>
+		<username><![CDATA[vantai@lozi.vn]]></username>
+		<password><![CDATA[q@}ALw(<9+dE]]></password>
+		<notes><![CDATA[git: tai/2dCP*Ee6bywo/mj4xvY2u»»root machiato: dTUVswEqZNR6esRdoBXvatydvr7hiFNiFrSe3bWLlZ8wwyrjEWb6w]]></notes>
+		<uuid><![CDATA[88ca4bab4cd74a07b98e474dcdb520e9]]></uuid>
+		<ctimex>2021-09-13T10:07:13</ctimex>
+		<xtimex>2021-12-12T10:07:27</xtimex>
+		<pmtimex>2021-09-13T10:07:27</pmtimex>
+		<rmtimex>2021-12-25T15:21:25</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="66">
+		<group><![CDATA[lozi]]></group>
+		<title><![CDATA[pgbarger]]></title>
+		<username><![CDATA[admin]]></username>
+		<password><![CDATA[P4+Zka)iXoit6j9}XBiUJwQbWe]]></password>
+		<notes><![CDATA[admin»P4+Zka)iXoit6j9}XBiUJwQbWe]]></notes>
+		<uuid><![CDATA[73bd840b610248b698257d98804cf573]]></uuid>
+		<ctimex>2022-01-17T14:34:38</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="67">
+		<group><![CDATA[Matlab]]></group>
+		<title><![CDATA[account]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[tP-78bM#G93Fru$]]></password>
+		<uuid><![CDATA[6edb545ba0da480c9b108f765f0942f4]]></uuid>
+		<ctimex>2020-08-18T17:05:49</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="68">
+		<group><![CDATA[MOK]]></group>
+		<title><![CDATA[Machine-Owner Key ]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[3fKdV6TRsd5jEz5A]]></password>
+		<notes><![CDATA[Your system has UEFI Secure Boot enabled.  UEFI Secure Boot requires additional configuration to work with third-party  drivers.                                                                                                                  » The system will assist you in configuring UEFI Secure Boot. To permit the use of third-party drivers, a new Machine-Owner Key (MOK) has been generated. This key now needs to be enrolled in your     system's firmware.» To ensure that this change is being made by you as an authorized user, and not by an attacker, you must choose a password now and then confirm the change after reboot using the same password, in    »  both the "Enroll MOK" and "Change Secure Boot state" menus that will be presented to you when this system reboots.                                                                                    »  If you proceed but do not confirm the password upon reboot, Ubuntu will still be able to boot on your system but any hardware that requires third-party drivers to work correctly may not be usable.  ]]></notes>
+		<uuid><![CDATA[a60a234ff0d546efbb9cea4277c85d67]]></uuid>
+		<ctimex>2020-04-16T19:05:08</ctimex>
+		<xtime_interval>90</xtime_interval>
+	</entry>
+
+	<entry id="69">
+		<group><![CDATA[msi]]></group>
+		<title><![CDATA[msi account]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[pe5dHHj2nVfvmvuw]]></password>
+		<notes><![CDATA[seria number S/N: K1809N0069555]]></notes>
+		<uuid><![CDATA[ac467001a0594be4b5b894e29a32a69d]]></uuid>
+		<ctimex>2020-04-14T22:39:06</ctimex>
+		<rmtimex>2020-04-17T04:40:32</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tooyoutooyou@gmail.com]]></email>
+	</entry>
+
+	<entry id="70">
+		<group><![CDATA[Netflix]]></group>
+		<title><![CDATA[Account]]></title>
+		<username><![CDATA[nguyenlequangthang@gmail.com]]></username>
+		<password><![CDATA[P3WwQupE7EHeWBjU]]></password>
+		<url><![CDATA[https://www.netflix.com/browse]]></url>
+		<notes><![CDATA[https://www.netflix.com/browse]]></notes>
+		<uuid><![CDATA[dd4cd29c5910428681c2635545f382ba]]></uuid>
+		<ctimex>2020-04-07T23:05:25</ctimex>
+		<rmtimex>2020-06-16T22:47:19</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[nguyenlequangthang@gmail.com]]></email>
+	</entry>
+
+	<entry id="71">
+		<group><![CDATA[npm]]></group>
+		<title><![CDATA[npm]]></title>
+		<username><![CDATA[nartvt]]></username>
+		<password><![CDATA[;NFt)2KxhQ%~]]></password>
+		<notes><![CDATA[2f738830cc536d440982c0fd8c2e27c38667e330132de4d73ae25fa5190e0d06»ce9d276346f6422e544083b0aac5b5ef77bdb5343e556cea3de2c5a02ed4bfab»97130fe540f4b9071197f5372c63c2e31a8105f42b8731949e49075832653c4a»05605bc7141a4b382a133b81c76de55474debe1b07626a0ecd9735733e2deeb6»15b3883c03900dc9b1a343171b078e8e50da13348ef00605f370014f471cf594»»token: 7af85945-f382-4edb-aae6-f061bb7b4959]]></notes>
+		<uuid><![CDATA[4597669e4c644880baf9708c1c5831b6]]></uuid>
+		<ctimex>2021-05-26T00:35:40</ctimex>
+		<rmtimex>2021-05-26T00:45:48</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="72">
+		<group><![CDATA[nsth]]></group>
+		<title><![CDATA[extract pass]]></title>
+		<username><![CDATA[tooyoutooyou@gmail.com]]></username>
+		<password><![CDATA[http://nhasachtinhoc.blogspot.com]]></password>
+		<notes><![CDATA[http://nhasachtinhoc.blogspot.com]]></notes>
+		<uuid><![CDATA[e6438bb056db400c865a6b329c492e22]]></uuid>
+		<ctimex>2021-01-31T22:28:41</ctimex>
+		<pmtimex>2021-02-21T18:43:14</pmtimex>
+		<rmtimex>2021-03-22T22:50:12</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+	<entry id="73">
+		<group><![CDATA[outlook]]></group>
+		<title><![CDATA[taitran1212]]></title>
+		<username><![CDATA[taitran1212]]></username>
+		<password><![CDATA[tranvantai1212]]></password>
+		<uuid><![CDATA[1e234f89da714151a85c14cb74887e74]]></uuid>
+		<ctimex>2020-04-05T15:11:52</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[taitran1212@outlook.com]]></email>
+	</entry>
+
+	<entry id="74">
+		<group><![CDATA[outlook]]></group>
+		<title><![CDATA[tranvantai0011]]></title>
+		<username><![CDATA[tranvantai0011]]></username>
+		<password><![CDATA[tranvantai1212]]></password>
+		<uuid><![CDATA[c2ad5b3542e54ecfbb48310da6d7dae0]]></uuid>
+		<ctimex>2020-04-05T15:11:16</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@outlook.com]]></email>
+	</entry>
+
+	<entry id="75">
+		<group><![CDATA[toptracker]]></group>
+		<title><![CDATA[total tracker]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[H@cgTq@5ds2gGqp]]></password>
+		<url><![CDATA[https://tracker.toptal.com/app]]></url>
+		<uuid><![CDATA[c06e4f2bfd0342fea8fc6c3747416f68]]></uuid>
+		<ctimex>2021-02-09T15:15:38</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="76">
+		<group><![CDATA[udemy]]></group>
+		<title><![CDATA[udemy]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[Y!b/7z%k2DY,cYJ]]></password>
+		<url><![CDATA[https://www.udemy.com/]]></url>
+		<uuid><![CDATA[4b47b864b7604ccd89628a5f9a139295]]></uuid>
+		<ctimex>2021-07-30T23:19:53</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="77">
+		<group><![CDATA[VinhomesOnline]]></group>
+		<title><![CDATA[Account]]></title>
+		<username><![CDATA[tranvantai0011@gmail.com]]></username>
+		<password><![CDATA[p2PxaxhYrxQXdkxGMKuU]]></password>
+		<url><![CDATA[https://www.random.org/passwords/?num=5&len=20&format=html&rnd=new]]></url>
+		<uuid><![CDATA[2c74da953c4d4a5ea2af76142c7abaaa]]></uuid>
+		<ctimex>2020-04-09T21:47:01</ctimex>
+		<xtime_interval>90</xtime_interval>
+		<email><![CDATA[tranvantai0011@gmail.com]]></email>
+	</entry>
+
+	<entry id="78">
+		<group><![CDATA[yahoo]]></group>
+		<title><![CDATA[tayduky_dn2009]]></title>
+		<username><![CDATA[tayduky_dn2009]]></username>
+		<password><![CDATA[getbyemail]]></password>
+		<notes><![CDATA[Verify : »+ 0773246232»+ skylinefully@gmail.com»+ tranvantai0099@outlook.com»+ taitranvt@yahoo.com.vn]]></notes>
+		<uuid><![CDATA[15202cbebbdc46279dcc6bc9ec5bdc91]]></uuid>
+		<ctimex>2020-04-05T15:38:05</ctimex>
+		<rmtimex>2020-04-05T15:38:32</rmtimex>
+		<pwhistory>
+			<status>0</status>
+			<max>3</max>
+			<num>0</num>
+		</pwhistory>
+	</entry>
+
+</passwordsafe>
